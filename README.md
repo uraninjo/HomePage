@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7741A&lines=Welcome+to+My+Profile!)](https://git.io/typing-svg)
 # 💫 About Me:
 I'm currently working and keen on Deep Learning and Data Science.
 
