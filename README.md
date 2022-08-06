@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73627&lines=Welcome+to+My+Profile;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 # 💫 About Me:
-I'm currently working and keen on Deep Learning and Data Science.
+I'm currently working on Deep Learning and Data Science.
 
 
 ## 🌐 Socials:
