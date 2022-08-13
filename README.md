@@ -4,7 +4,7 @@ I'm currently working on Deep Learning and Data Science.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-murat-kose/)  [![Kaggle](https://img.shields.io/badge/K-Kaggle-purple)](https://www.kaggle.com/uraninjo/code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-murat-kose/)  [![Kaggle](https://img.shields.io/badge/K-Kaggle-purple)](https://www.kaggle.com/uraninjo/competitions?tab=active)
 
 
 <!--   my-skils -->
